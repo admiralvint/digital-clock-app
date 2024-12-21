@@ -1,2 +1,1 @@
 tkinter
-DS-Digital font from https://www.dafont.com/ds-digital.font

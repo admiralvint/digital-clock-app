@@ -27,6 +27,7 @@ digital-clock-app
    ```
    pip install -r requirements.txt
    ```
+   Also get the DS-Digital font from https://www.dafont.com/ds-digital.font
 
 ## Usage
 
