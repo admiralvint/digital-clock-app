@@ -49,7 +49,7 @@ class Clock:
         event (tk.Event): The event object containing information about the resize event.
         """
         new_size_time = max(min(event.width // 26, event.height // 4), 26)  # Ensure a minimum font size of 26
-        new_size_date = max(min(event.width // 40, event.height // 10), 10)  # Ensure a minimum font size of 10
+        new_size_date = max(min(event.width // 40, event.height // 10), 20)  # Ensure a minimum font size of 10
         
         self.font_time.configure(size=new_size_time)
         self.font_date.configure(size=new_size_date)
