@@ -6,7 +6,7 @@ def main():
     Main function to initialize and run the digital clock application.
     """
     root = tk.Tk()
-    root.title("Vindikell")
+    root.title("Crypto'O'Clock")
     clock = Clock(root)
     root.mainloop()
 
