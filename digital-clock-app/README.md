@@ -1,6 +1,6 @@
 # Digital Clock Application
 
-This is a minimalist modern GUI digital clock application built with Python. The application displays the current time and updates it every second.
+This is a cyberpunk inspired themed clock and crypto price application. Crypto prices are updated every 5 minutes
 100% ChatGPT Co-Pilot project
 
 ## Project Structure
